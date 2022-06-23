@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://cdn.jsdelivr.net/gh/letminer/letsec@main/images/logo.png" width="400"/>
+  <img src="https://github.com/letminer/letsec/blob/main/images/logo.png" width="400"/>
 </h1>
 
 <h4 align="center">letsec 加密隧道
