@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="﻿https://cdn.jsdelivr.net/gh/letminer/letsec@main/images/logo.png" width="400"/>
+  <img src="https://cdn.jsdelivr.net/gh/letminer/letsec@main/images/logo.png" width="400"/>
 </h1>
 
 <h4 align="center">letsec 加密隧道
@@ -18,7 +18,7 @@
 bash <(curl -s -L https://raw.githubusercontent.com/letminer/letsec/main/install.sh)
 
 # 备用  一键脚本 - 如无法访问github，使用如下备用脚本
-bash <(curl -s -L ﻿https://cdn.jsdelivr.net/gh/letminer/letsec@main/install.sh)
+bash <(curl -s -L https://cdn.jsdelivr.net/gh/letminer/letsec@main/install.sh)
 ```
 ### 如果一键脚本卡住不动，按照以下两步走
 #### 1、安装 wget 下载工具
