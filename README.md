@@ -1,13 +1,13 @@
 
 <h1 align="center">
   <br>
-  <img src="﻿https://cdn.jsdelivr.net/gh/letminer/letsec@main/images/logo.png" width="400"/>
+  <img src="https://cdn.jsdelivr.net/gh/letminer/letsec@main/images/logo.png" width="400"/>
 </h1>
 
 <h4 align="center">letsec 加密隧道
 <br />Go语言原生开发，letminer专用加密客户端。
 <br />私有加密协议，安全性更高、更稳定，防嗅探、防扫描，矿厂必备。
-<h4 align="center"><a style="color:red" href="﻿https://github.com/letminer/MinerProxy">配合 letminer 矿机代理使用 >></a></h4>
+<h4 align="center"><a style="color:red" href="https://github.com/letminer/MinerProxy">配合 letminer 矿机代理使用 >></a></h4>
 <div align="center" style="font-weight:bold">要求 letminer 版本 >= v2.0.0</div>
 
 # · Liunx安装 / 一键脚本
@@ -18,7 +18,7 @@
 bash <(curl -s -L https://raw.githubusercontent.com/letminer/letsec/main/install.sh)
 
 # 备用  一键脚本 - 如无法访问github，使用如下备用脚本
-bash <(curl -s -L ﻿https://cdn.jsdelivr.net/gh/letminer/letsec@main/install.sh)
+bash <(curl -s -L https://cdn.jsdelivr.net/gh/letminer/letsec@main/install.sh)
 ```
 ### 如果一键脚本卡住不动，按照以下两步走
 #### 1、安装 wget 下载工具
