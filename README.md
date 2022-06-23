@@ -4,7 +4,8 @@
   <img src="https://github.com/letminer/letsec/blob/main/images/logo.png" width="400"/>
 </h1>
 
-<h4 align="center">letsec 加密隧道，Go语言原生开发，letminer专用加密客户端。私有加密协议，安全性更高、更稳定，防嗅探、防扫描，矿厂必备。
+<h4 align="center">letsec 加密隧道，Go语言原生开发，letminer专用加密客户端。
+<br />私有加密协议，安全性更高、更稳定，防嗅探、防扫描，矿厂必备。
 <h4 align="center"><a style="color:red" href="https://github.com/letminer/MinerProxy">配合 letminer 矿机代理使用 >></a></h4>
 <div align="center" style="font-weight:bold">要求 letminer 版本 >= v2.0.0</div>
 
