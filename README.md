@@ -11,7 +11,7 @@
 
 # · LetSec使用方式
 ```bash
-|矿机| ------SSL/TCP连接-----> |LetSec本地端口| ------LetSec协议-----> |letminer本地端口|
+|矿机| ------SSL/TCP连接-----> |LetSec本地端口| ----------> |letminer本地端口|
 ```
 
 # · Liunx在线安装
