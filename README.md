@@ -26,34 +26,34 @@ bash <(curl -s -L https://cdn.jsdelivr.net/gh/letminer/letsec@main/install.sh)
 
 # · Linux离线安装
 ```bash
-     1、直接下载zip压缩包，
-     2、解压，运行安装脚本 ：bash install.sh       
+1、直接下载zip压缩包，
+2、解压，运行安装脚本 ：bash install.sh       
 ```
 
 # · Windows安装
 ```bash
-      1、直接下载zip压缩包，
-      2、解压下载的压缩包，双击 windows启动.bat 即可,
-         或直接双击 letsec_windows.exe。
+1、直接下载zip压缩包，
+2、解压下载的压缩包，双击 windows启动.bat 即可,
+   或直接双击 letsec_windows.exe。
 ```
 
 # ·  重要提示
 ```bash
-     1、Linux系统第一次安装完成后请重启服务器，连接限制修改方可生效！
-     2、安装完成后，请立即修改默认密码！
-     3、letsec支持矿机使用SSL/TCP两种连接方式，
-        letsec已内置SSL证书，如需更换，请将证书文件命名为 server.key 与 server.pem ,并放置于程序安装目录下！
+1、Linux系统第一次安装完成后请重启服务器，连接限制修改方可生效！
+2、安装完成后，请立即修改默认密码！
+3、letsec支持矿机使用SSL/TCP两种连接方式，
+   letsec已内置SSL证书，如需更换，请将证书文件命名为 server.key 与 server.pem ,并放置于程序安装目录下！
 ```
 
 # ·  版本日志
 ```bash
-    2022/06/23 v1.0.0  发布第一个版本；letminer（版本>=2.0.0）专用本地加密客户端。
+2022/06/23 v1.0.0  发布第一个版本；letminer（版本>=2.0.0）专用本地加密客户端。
 ```
   
 # · 联系我们
 ```bash
-    1、Telegram技术交流群：https://t.me/letminers
-    2、欢迎建议、使用反馈、定制需求，电报群直接私聊群主
+1、Telegram技术交流群：https://t.me/letminers
+2、欢迎建议、使用反馈、定制需求，电报群直接私聊群主
 ```    
 <div align="left">
 <img title="开发者Telegram" src="https://cdn.jsdelivr.net/gh/letminer/MinerProxy@ce8161bc3507d2bfe02324573b7fbc3778c3b123/images/letminer.jpg" width="200" />
