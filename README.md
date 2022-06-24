@@ -9,8 +9,12 @@
 <h4 align="center"><a style="color:red" href="https://github.com/letminer/MinerProxy">配合 letminer 矿机代理使用 >></a></h4>
 <div align="center" style="font-weight:bold">要求 letminer 版本 >= v2.0.0</div>
 
-# · Liunx在线安装
+# · LetSec使用方式
+```bash
+| 矿机 | ------SSL/TCP连接-------> | LetSec本地端口 | ------LetSec协议-------> | letminer本地(LetSec)端口 |
+```
 
+# · Liunx在线安装
 推荐系统：Ubuntu 16+ / Debian 8+ / CentOS 7+，使用 root 用户输入下面命令安装或卸载<br />
 ```bash
 #直连github
@@ -29,14 +33,16 @@ bash <(curl -s -L https://cdn.jsdelivr.net/gh/letminer/letsec@main/install.sh)
 # · Windows安装
 ```bash
       1、直接下载zip压缩包，
-      2、解压下载的压缩包，双击 windows_run.bat 即可。
+      2、解压下载的压缩包，双击 windows启动.bat 即可,
+         或直接双击 letsec_windows.exe。
 ```
 
 # ·  重要提示
 ```bash
      1、Linux系统第一次安装完成后请重启服务器，连接限制修改方可生效！
      2、安装完成后，请立即修改默认密码！
-     3、如需更换内置SSL证书，请将证书文件命名为 server.key 与 server.pem ,并放置于程序安装目录下！
+     3、LetSec支持矿机使用SSL/TCP两种连接方式，
+        LetSec已内置SSL证书，如需更换，请将证书文件命名为 server.key 与 server.pem ,并放置于程序安装目录下！
 ```
 
 # ·  版本日志
