@@ -39,7 +39,7 @@ bash <(curl -s -L https://cdn.jsdelivr.net/gh/letminer/letsec@main/install.sh)
      3、如需更换内置SSL证书，请将证书文件命名为 server.key 与 server.pem ,并放置于程序安装目录下！
 ```
 
-# ·  版本更新日志
+# ·  版本日志
 ```bash
     2022/06/23 v1.0.0  发布第一个版本；letminer（版本>=2.0.0）专用本地加密客户端。
 ```
