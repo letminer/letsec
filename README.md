@@ -9,9 +9,9 @@
 <h4 align="center"><a style="color:red" href="https://github.com/letminer/MinerProxy">配合 letminer 矿机代理使用 >></a></h4>
 <div align="center" style="font-weight:bold">要求 letminer 版本 >= v2.0.0</div>
 
-# · LetSec使用方式
+# · letsec使用方式
 ```bash
-【矿机】 ---SSL/TCP连接---> 【LetSec本地端口】 ---> 【letminer本地端口】 ---SSL/TCP连接--->【矿池】
+【矿机】 ---SSL/TCP连接---> 【letsec本地端口】 ---> 【letminer本地端口】 ---SSL/TCP连接--->【矿池】
 ```
 
 # · Liunx在线安装
@@ -41,8 +41,8 @@ bash <(curl -s -L https://cdn.jsdelivr.net/gh/letminer/letsec@main/install.sh)
 ```bash
      1、Linux系统第一次安装完成后请重启服务器，连接限制修改方可生效！
      2、安装完成后，请立即修改默认密码！
-     3、LetSec支持矿机使用SSL/TCP两种连接方式，
-        LetSec已内置SSL证书，如需更换，请将证书文件命名为 server.key 与 server.pem ,并放置于程序安装目录下！
+     3、letsec支持矿机使用SSL/TCP两种连接方式，
+        letsec已内置SSL证书，如需更换，请将证书文件命名为 server.key 与 server.pem ,并放置于程序安装目录下！
 ```
 
 # ·  版本日志
