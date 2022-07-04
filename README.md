@@ -53,6 +53,7 @@ bash <(curl -s -L https://cdn.statically.io/gh/letminer/letsec/main/install.sh)
 
 # ·  版本日志
 ```bash
+2022/07/04 v1.0.1  优化页面，矿机列表增加筛选功能。
 2022/06/23 v1.0.0  发布第一个版本；letminer（版本>=2.0.0）专用本地加密客户端。
 ```
   
